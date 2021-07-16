@@ -8743,7 +8743,9 @@ textarea.form-control {
 .ftco-animate {
   opacity: 0;
   visibility: hidden; }
-
+  .ftco-animate2 {
+    opacity: 0;
+    visibility: hidden; }
 .bg-primary {
   background: #fdcb6e !important; }
 
