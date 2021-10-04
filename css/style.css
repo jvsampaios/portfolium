@@ -8158,7 +8158,7 @@ a {
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
   line-height: 1.5;
-  color: rgba(0, 0, 0, 0.8);
+  color: #03002E;
   font-weight: 400;
   font-family: "Lora", serif; }
 
@@ -8682,15 +8682,15 @@ h1, h2, h3, h4, h5,
     font-weight: 400; }
   @media (min-width: 992px) {
     .services.active {
-      background: #1e1e1e;
+      background: #03002E;
       color: #fff; }
       .services.active h3 {
         color: #fff; }
       .services.active .icon span {
         color: #fff; }
     .services.active-2 {
-      background: #fdcb6e;
-      color: #000000; }
+      background: #FDCB6F;
+      color: #03002E; }
       .services.active-2 .icon span {
         color: #fff; } }
   .services:hover, .services:focus {
